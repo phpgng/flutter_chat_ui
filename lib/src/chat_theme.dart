@@ -455,6 +455,7 @@ class DefaultChatTheme extends ChatTheme {
       height: 1.333,
     ),
     super.userNameTextStyle = const TextStyle(
+      color: neutral7,
       fontSize: 12,
       fontWeight: FontWeight.w800,
       height: 1.333,
@@ -624,6 +625,7 @@ class DarkChatTheme extends ChatTheme {
       height: 1.333,
     ),
     super.userNameTextStyle = const TextStyle(
+      color: neutral7,
       fontSize: 12,
       fontWeight: FontWeight.w800,
       height: 1.333,
